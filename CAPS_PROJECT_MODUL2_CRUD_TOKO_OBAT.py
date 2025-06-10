@@ -39,7 +39,7 @@ def tampilkan_daftar():
         print("Pilihan tidak valid.")
 
 def tampilkan_log_perubahan_harga():
-    print("\n📜 Riwayat Perubahan Harga Obat:")
+    print("\n Riwayat Perubahan Harga Obat:")
     if not log_harga:
         print("Belum ada perubahan harga yang dicatat.")
         return
