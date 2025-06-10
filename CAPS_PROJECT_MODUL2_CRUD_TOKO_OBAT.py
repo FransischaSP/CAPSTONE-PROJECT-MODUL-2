@@ -340,7 +340,7 @@ while True:
     elif pilihan == "7":
         tampilkan_log_perubahan_harga()
     elif pilihan == "8":
-        print("Program selesai. Terima kasih!")
+        print("Terimakasih telah belanja di Toko Obat F. Sehat Selalu!")
         break
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")
